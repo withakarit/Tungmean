@@ -1,7 +1,7 @@
 # Tungmean
 git init
 git add .
-git commit -m "Primeiro commit"
+git commit -m "Lc o canalha esteve aqui"
 
 git branch -M main
 git remote add origin https://github.com/withakarit/Tungmean.git
